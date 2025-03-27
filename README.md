@@ -17,19 +17,16 @@ such as BERTbase and RoBERTabase.
 
 
 Recent studies by Alghamdi et al.[1] by conducting a benchmark study using a wide range of classical ML algorithms and Deep Learning transformerbased models. They have highlighted the remarkable capabilities of advanced
-Pre-trained Language Models (PLMs) in achieving state-of-the-art performance across numerous NLP tasks. Specifically, in the context of fake news
-detection using the FakeNewsNet dataset, BERTbase and RoBERTabase
-demonstrated exceptional F1 scores of 0.9241 and 0.9085, respectively, for both
-PolitiFact and GossipCop news. Notably, BERTbase alone achieved accuracy
-results that were comparable to the best-performing models, underscoring its
-effectiveness in extracting meaningful insights from short text samples. The
-findings also emphasized the superior ability of transformer-based models to
-handle noisy and sparse datasets, which are common characteristics of realworld fake news data.
+Pre-trained Language Models (PLMs) in achieving state-of-the-art performance across numerous NLP tasks. Specifically, in the context of fake news detection using the FakeNewsNet dataset, BERTbase and RoBERTabase
+demonstrated exceptional F1 scores of 0.9241 and 0.9085, respectively, for both PolitiFact and GossipCop news. Notably, BERTbase alone achieved accuracy results that were comparable to the best-performing models, underscoring its
+effectiveness in extracting meaningful insights from short text samples. The findings also emphasized the superior ability of transformer-based models to handle noisy and sparse datasets, which are common characteristics of realworld fake news data.
 
 ## In this project, we use bert for fakenews recognition
 we adjust the outlayer for two kind classcification
 and use news data with lable 1 and 0 for model trainning
 model achieve more than 70% accuracy on test data set after hyper-parameter adjustment
+
+![image](https://github.com/user-attachments/assets/c53dbcdf-e82b-4dc7-882e-2ab455f9cf23)
 
 ![image](https://github.com/user-attachments/assets/0edd0cd0-4170-4bad-b05b-3d11f0e48913)
 
