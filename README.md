@@ -1,7 +1,7 @@
 # CDS525_group_asg_fakenews
 ## introduction
 With social media becoming ubiquitous, information consumption from this media has also increased.However, this increased reliance on social media has also
-given rise to a significant challenge: the proliferation of misinformation, commonly referred to as ”fake news.” This issue is not merely a matter of inconvenience; it poses serious threats to various critical aspects of society, including
+given rise to a significant challenge: the proliferation of misinformation, commonly referred to as ”fake news.” This issue is not merely a matter of inconvenience; it poses serious threats to various critical aspects of society, including
 the economy, democracy, public health, and safety. Therefore, the identification
 and mitigation of fake news have become essential tasks that demand urgent
 attention and innovative solutions.
