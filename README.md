@@ -26,3 +26,6 @@ handle noisy and sparse datasets, which are common characteristics of realworld
 we adjust the outlayer for two kind classcification, and use news data with lable 1 and 0 for model trainning
 and model achieve more than 70% accuracy on test data set after hyper-parameter adjustment
 
+![image](https://github.com/user-attachments/assets/0edd0cd0-4170-4bad-b05b-3d11f0e48913)
+
+
